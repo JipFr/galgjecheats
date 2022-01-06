@@ -184,7 +184,4 @@
 		grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
 		grid-gap: 2px;
 	}
-	.words p {
-		margin: 0;
-	}
 </style>
