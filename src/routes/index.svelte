@@ -73,7 +73,13 @@
 	}
 </script>
 
-<h1>Galgje cheats</h1>
+<h1>
+	<img
+		src="https://i.imgur.com/UFdtpmS.png"
+		style="filter:invert(1); height: 5rem;"
+		alt="skull"
+	/>Galgje cheats
+</h1>
 
 <p>
 	Welkom op <a href="https://galgjecheats.nl">galgjecheats.nl</a>. Wij zorgen dat je eindelijk kan

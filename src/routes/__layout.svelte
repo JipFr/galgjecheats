@@ -1,3 +1,24 @@
+<svelte:head>
+	<title>galgjecheats.nl</title>
+	<meta name="og:title" content="galgjecheats.nl" />
+	<meta name="twitter:title" content="galgjecheats.nl" />
+	<meta
+		name="description"
+		content="Wil jij eindelijk niet langer de loser van de klas zijn? Klik dan op deze link!"
+	/>
+	<meta
+		name="og:description"
+		content="Wil jij eindelijk niet langer de loser van de klas zijn? Klik dan op deze link!"
+	/>
+	<meta
+		name="twitter:description"
+		content="Wil jij eindelijk niet langer de loser van de klas zijn? Klik dan op deze link!"
+	/>
+	<meta name="image" content="https://i.imgur.com/UFdtpmS.png" />
+	<meta name="og:image" content="https://i.imgur.com/UFdtpmS.png" />
+	<meta name="twitter:image:src" content="https://i.imgur.com/UFdtpmS.png" />
+</svelte:head>
+
 <main>
 	<slot />
 </main>
